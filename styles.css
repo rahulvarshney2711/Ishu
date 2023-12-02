@@ -645,7 +645,7 @@ iframe {
   color: black;
 }
 .mobile-menu-container .active {
-  background-color: #333;
+  background-color: #000;
   color: white;
 }
 /* ==========================================================
@@ -1501,4 +1501,10 @@ span.see-more {
   .owl-pagination {
     pointer-events: auto !important;
   }
+}
+footer {
+  background-color: #000; /* Background color for the footer */
+  color: #fff; /* Text color */
+  text-align: center; /* Center-align text */
+  padding: 4px 0; /* Add padding to the top and bottom */
 }
